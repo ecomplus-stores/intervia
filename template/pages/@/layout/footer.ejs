@@ -9,6 +9,9 @@ const contacts = _.cms('contacts') || {}
     <div class="row">
       <div class="col-12 col-lg-auto order-lg-last pl-xl-4">
         <div class="footer__contacts">
+          <h2 class="footer__title footer__store">
+            <%= footer.description.title || _.settings.name %>
+          </h2>
           <% if (footer.contacts.title) { %>
             <div class="footer__title">
               <%= footer.contacts.title %>
@@ -156,9 +159,9 @@ const contacts = _.cms('contacts') || {}
       <% } %>
 
       <div class="col-12 col-xl order-lg-first">
-        <h2 class="footer__title footer__store">
-          <%= footer.description.title || _.settings.name %>
-        </h2>
+        <a href="/">
+          <%- await include('@/layout/inc/logo', { _ }) %>
+        </a>
         <p><%- footer.description.text || _.settings.description %></p>
 
         <div class="mt-4 mb-3">

@@ -1,1 +1,16 @@
 // Add your custom CSS here.
+.top-bar__countdown {
+    background-color: #DF2D32 !important;
+}
+.header, .footer {
+    background-color: #fff;
+}
+.header {
+    border-bottom: 0;
+}
+.footer {
+    border-top-color:#DF2D32 !important;
+}
+.top-bar__nav {
+    display: none !important;
+}

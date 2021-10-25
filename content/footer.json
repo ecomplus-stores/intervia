@@ -1,11 +1,11 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Intervia Moda Femina",
+    "text": "Pellentesque a ornare risus, ut malesuada sem. Integer semper pharetra enim vitae consequat. Cras at tristique nisi. In suscipit pretium lacus in ornare. Donec eget commodo sem. Nullam a erat arcu. Vivamus dolor purus, mattis vel hendrerit vel, porttitor et urna."
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Institucional",
     "list": []
   },
   "links_2": {
@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Informações Gerais de Contato",
     "phone_wpp": true,
     "socials": true,
     "email": true,
