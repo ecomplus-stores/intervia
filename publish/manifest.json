@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c2c8de09e95ab3aa9966380d2b5497c2.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.2ee1b5624879c84bb2b4338d535d99f5.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.ad5643ed5e2bc617f12609c1423954ee.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.bc88571b991a8e47260e311e02ed8b3b.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.65e0750769a321a809e7abfa9272cb7d.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "intervia",
+  "short_name": "intervia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "intervia",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
