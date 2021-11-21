@@ -146,6 +146,18 @@
     </url>
   
     <url>
+      <loc>https://intervia.netlify.app/conjunto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://intervia.netlify.app/calcas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://intervia.netlify.app/novas-emocoes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
