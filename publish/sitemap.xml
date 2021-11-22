@@ -182,6 +182,12 @@
     </url>
   
     <url>
+      <loc>https://intervia.netlify.app/vestido-carina-saia-assimetrica-c226</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://intervia.netlify.app/novas-emocoes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
