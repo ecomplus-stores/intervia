@@ -1,11 +1,10 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Comprou e não serviu? A 1º Troca é Grátis ♥",
+    "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": false
   },
