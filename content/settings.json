@@ -1,24 +1,24 @@
 {
-  "store_id": 13149,
-  "name": "intervia",
-  "domain": "intervia.netlify.app",
-  "short_name": "intervia",
-  "description": "intervia",
+  "domain": "interviaoficial.com.br",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/intervia",
   "logo": "/img/uploads/logo.jpg",
-  "mini_logo": "",
-  "icon": "/img/uploads/logo.jpg",
-  "large_icon": "/img/uploads/logo.jpg",
-  "favicon": "/img/uploads/logo.jpg",
+  "name": "Intervia Moda Feminina",
+  "short_name": "Intervia",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo.jpg",
   "country_code": "BR",
-  "repository": "ecomplus-stores/intervia"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo.jpg",
+  "store_id": 13149,
+  "description": "Empoderando Mulheres com looks modernos!\nModa Feminina - Casual e Moderna, InterDivas!",
+  "large_icon": "/img/uploads/logo.jpg"
 }
