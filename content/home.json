@@ -28,14 +28,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bannerpkno1.jpg",
-          "alt": "Teste",
-          "link": ""
+          "img": "https://trello.com/1/cards/61d4521a9181e208d9db3eee/attachments/61d5f335c4e7ff7b41efb266/previews/61d5f336c4e7ff7b41efb275/download/Banner2.jpg",
+          "alt": "",
+          "link": "https://www.instagram.com/interviaoficial/"
         },
         {
-          "img": "/img/uploads/bannerpkno2.jpg",
-          "alt": "Teste",
-          "link": ""
+          "img": "https://trello.com/1/cards/61d4521a9181e208d9db3eee/attachments/61d5f333b79ee7798e20e565/previews/61d5f335b79ee7798e20e638/download/Banner1.jpg",
+          "alt": "",
+          "link": "https://web.whatsapp.com/send?phone=%2B556233121132"
         }
       ]
     },
