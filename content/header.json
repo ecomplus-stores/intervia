@@ -9,7 +9,13 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/vestidos?Vestidos",
+      "/blusa?Blusas",
+      "/conjunto?Conjuntos",
+      "/shorts-bermudas?Shorts/ Bermudas",
+      "/calcas?Calças"
+    ],
     "random": 6,
     "full_width": false
   },
