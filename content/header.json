@@ -14,9 +14,10 @@
       "/blusa?Blusas",
       "/conjunto?Conjuntos",
       "/shorts-bermudas?Shorts/ Bermudas",
-      "/calcas?Calças"
+      "/calcas?Calças",
+      "/macacoes-femininos?Macacões"
     ],
-    "random": 6,
+    "random": 1,
     "full_width": false
   },
   "search_input": true
